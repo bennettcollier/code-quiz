@@ -12,3 +12,5 @@ Test your JavaScript skills here!<br>
 * Scores are sorted and stored in the "High Scores" section.
 * The quiz questions are randomized in order.
 * Answers are given under the question right after the user has selected their choice.
+
+<img width="699" alt="Screen Shot 2020-11-26 at 11 35 41 AM" src="https://user-images.githubusercontent.com/71052027/100386922-90495380-2fdb-11eb-9143-e6cb4d8eb739.png">
